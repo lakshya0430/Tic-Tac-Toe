@@ -5,7 +5,7 @@
 
 /**
  *
- * @author HP
+ * @author Lakshya Soni
  */
 public class intro extends javax.swing.JFrame {
 
